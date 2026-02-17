@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(exiftool:*)",
+      "WebSearch",
+      "Bash(\"/Users/raimond/Pictures/FUJI MAIN/frame.sh\" --typo file.jpg)",
+      "Bash(echo:*)",
+      "Bash(ls:*)",
+      "Bash(bash frame.sh:*)",
+      "Bash(magick:*)",
+      "Bash(magick identify:*)",
+      "Bash(./frame.sh:*)"
+    ]
+  }
+}
